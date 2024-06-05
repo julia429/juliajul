@@ -1,7 +1,7 @@
 {
   "name": "juliajul",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.1.4",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -22,5 +22,20 @@
     "tailwindcss": "^3.4.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.3"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julia429/juliajul"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "jul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julia429/juliajul/issues"
+  },
+  "homepage": "https://github.com/julia429/juliajul#readme"
 }
